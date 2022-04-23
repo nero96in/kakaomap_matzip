@@ -1,3 +1,4 @@
+.gitignore
 apikey.py
 favorite.ipynb
 .ipynb_checkpoints/
